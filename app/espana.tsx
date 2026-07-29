@@ -42,14 +42,13 @@ export default function EnnerGodScreen() {
         </Text>
         <Text style={styles.tributeText}>
         España es la campeona del mundo: historial de los Mundiales con campeones, subcampeones, terceros y cuartos
-        Europa, con su decimoterce título en la historia del fútbol.
         </Text>
       </View>
 
         <View style={styles.tributeCard}>
         <Text style={styles.cardTitle}>Respeto al campeon</Text>
         <Text style={styles.tributeText}>
-        Europa, con su decimotercer título, agranda la diferencia con América, con nueve, tras ganar cinco de los seis más recientes Mundiales.
+        Europa, con su decimotercer título
         </Text>
       </View>
       

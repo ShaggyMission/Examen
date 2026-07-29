@@ -17,6 +17,15 @@ export default function españaScreen() {
         />
       </View>
 
+          <View style={styles.container}>
+      <Video
+        source={require('../assets/videos/edgar.mp4')}
+        style={styles.video}
+        controls={true}
+        resizeMode="contain"
+      />
+    </View>
+
       <View style={styles.tributeCard}>
         <Text style={styles.cardTitle}>Edgar Garzon</Text>
         <Text style={styles.tributeText}>
@@ -126,5 +135,14 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     color: "#0033A0",
     textAlign: "center",
+  },
+    container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  video: {
+    width: 300,
+    height: 200,
   },
 });

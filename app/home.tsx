@@ -23,13 +23,13 @@ export default function HomeScreen() {
 
         <View style={styles.infoRow}>
           <Text style={styles.infoLabel}>⚽ Argentina subcampeón del Mundial
-Argentina terminó el Mundial 2026 como subcampeón, perdiendo 1-0 ante España en la final. El partido se definió en el segundo tiempo suplementario, y el único gol fue anotado por Ferran Torres. La Selección Argentina, bajo la dirección de Lionel Scaloni, logró superar a Inglaterra en semifinales, pero no pudo defender el título obtenido en el Mundial anterior. La derrota fue dolorosa, pero también marcó un nuevo capítulo en la historia del fútbol argentino, ya que aseguró la clasificación del país para el Mundial 2030</Text>
+          Argentina terminó el Mundial 2026 como subcampeón, perdiendo 1-0 ante España en la final. El partido se definió en el segundo tiempo suplementario, y el único gol fue anotado por Ferran Torres. La Selección Argentina, bajo la dirección de Lionel Scaloni, logró superar a Inglaterra en semifinales, pero no pudo defender el título obtenido en el Mundial anterior. La derrota fue dolorosa, pero también marcó un nuevo capítulo en la historia del fútbol argentino, ya que aseguró la clasificación del país para el Mundial 2030</Text>
           <Text style={styles.infoValue}>SUBCAMPEON</Text>
         </View>
 
         <TouchableOpacity 
           style={styles.ennerButton} 
-          onPress={() => router.replace("/españa")}
+          onPress={() => router.replace("/espana")}
         >
           <Text style={styles.ennerButtonText}>🔍 El Debate: España es el mejor Equipo?</Text>
         </TouchableOpacity>
