@@ -29,7 +29,7 @@ Argentina terminó el Mundial 2026 como subcampeón, perdiendo 1-0 ante España 
 
         <TouchableOpacity 
           style={styles.ennerButton} 
-          onPress={() => router.replace("/enner")}
+          onPress={() => router.replace("/españa")}
         >
           <Text style={styles.ennerButtonText}>🔍 El Debate: España es el mejor Equipo?</Text>
         </TouchableOpacity>
