@@ -1,7 +1,7 @@
-# TriEcuadorApp ⚽🇪🇨
+# TriEspañaApp ⚽🇪s
 
 ## Orientación del Proyecto
-Esta aplicación móvil está orientada a mostrar información básica y estilizada de la Selección Ecuatoriana de Fútbol ("La Tri"). Está diseñada como un proyecto educativo y práctico para comprender la estructura moderna de desarrollo móvil híbrido, enfocándose en la identidad visual de Ecuador (Amarillo, Azul y Rojo) mediante una interfaz limpia, atractiva y fácil de explicar.
+Esta aplicación móvil está orientada a mostrar información básica y estilizada de la Selección Española de Fútbol ("La Es"). Está diseñada como un proyecto educativo y práctico para comprender la estructura moderna de desarrollo móvil híbrido, enfocándose en la identidad visual de Ecuador (Amarillo, Azul y blanco) mediante una interfaz limpia, atractiva y fácil de explicar.
 
 ---
 
